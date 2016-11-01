@@ -1,4 +1,4 @@
-//Odd even transposition sort in CUDA C
+//Odd-Even Transposition Sort in CUDA C
 
 #include <cuda.h>
 #include <stdio.h>
